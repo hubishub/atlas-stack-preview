@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 64" fill="none" aria-hidden="true">
+  <!-- cream paper bg optional transparent -->
+  <!-- rear wheel -->
+  <circle cx="22" cy="44" r="14" stroke="#3b2a1f" stroke-width="2.2"/>
+  <circle cx="22" cy="44" r="3.2" fill="#3b2a1f"/>
+  <circle cx="22" cy="44" r="9" stroke="#3b2a1f" stroke-width="0.8" opacity="0.35"/>
+  <!-- front wheel -->
+  <circle cx="74" cy="44" r="14" stroke="#3b2a1f" stroke-width="2.2"/>
+  <circle cx="74" cy="44" r="3.2" fill="#3b2a1f"/>
+  <circle cx="74" cy="44" r="9" stroke="#3b2a1f" stroke-width="0.8" opacity="0.35"/>
+  <!-- frame -->
+  <path d="M22 44 L40 22 L58 44 M40 22 L52 22 M40 22 L36 44 M58 44 L74 44" stroke="#3b2a1f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- seat post / saddle -->
+  <path d="M36 44 L34 18" stroke="#3b2a1f" stroke-width="2" stroke-linecap="round"/>
+  <path d="M28 17 H40" stroke="#3b2a1f" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- handlebars -->
+  <path d="M52 22 L60 14 M56 14 H66" stroke="#3b2a1f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- rear rack -->
+  <path d="M18 28 H34 M18 28 V34 M34 28 V34 M18 34 H34" stroke="#3b2a1f" stroke-width="1.6" stroke-linecap="round"/>
+  <!-- books on rack (4 spines leaning) -->
+  <rect x="19" y="12" width="4.2" height="16" rx="0.6" fill="#6e2f2f" transform="rotate(-6 21 20)"/>
+  <rect x="23.5" y="11" width="4.5" height="17" rx="0.6" fill="#24344d" transform="rotate(-2 25.5 19.5)"/>
+  <rect x="28" y="10.5" width="4.2" height="17.5" rx="0.6" fill="#2f4a3a" transform="rotate(3 30 19)"/>
+  <rect x="32" y="12" width="3.8" height="16" rx="0.6" fill="#9a6b2f" transform="rotate(7 34 20)"/>
+  <!-- brass accents on books -->
+  <path d="M21 15.5 v8 M25.5 14.5 v9 M30 14 v9.5 M34 15.5 v8" stroke="#b08d57" stroke-width="0.55" opacity="0.85"/>
+</svg>
